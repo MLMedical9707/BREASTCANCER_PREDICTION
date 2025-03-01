@@ -31,3 +31,12 @@
 | Logistic Regression | 96.49% |
 
 > **결론:** Extra Trees 모델이 가장 높은 성능을 기록  
+
+## 📥 파일 다운로드 방법
+1. **GitHub 저장소에서 직접 다운로드**
+   - [`BREASTCANCER_PREDICTION.ipynb`](./BREASTCANCER_PREDICTION.ipynb) 파일을 클릭하여 열고, **오른쪽 상단의 "Download" 버튼을 클릭**하여 다운로드합니다.
+
+2. **Git 명령어를 이용한 다운로드**
+   ```bash
+   git clone https://github.com/사용자명/저장소명.git
+   cd 저장소명
